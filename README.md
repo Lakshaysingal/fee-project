@@ -1,7 +1,8 @@
-Welcome 🖐 to the Age Calculator
-It is a simple Javascript project which calculates our age in years.
+Welcome 🖐 to the Web Blog Page 
+It is a simple Html and CSS  project which is only simple web blog page .
 
-Default view - 
+Default view - ![Screenshot 2024-04-05 221655](https://github.com/Lakshaysingal/web-blog-frontend-project/assets/145491977/b9955c3c-7b39-43df-92eb-546c82ef23d2)
+
 
 
 
